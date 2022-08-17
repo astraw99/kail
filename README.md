@@ -74,6 +74,12 @@ See [here](https://golang.org/pkg/time/#ParseDuration) for more information on t
 
 ## Installing
 
+### Krew
+using [krew](https://krew.sigs.k8s.io/):
+```sh
+$ kubectl krew install tail
+```
+
 ### Homebrew
 
 ```sh
